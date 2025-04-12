@@ -33,18 +33,18 @@ const DELIVERY_METHODS: DeliveryMethod[] = [
 const PAYMENT_METHODS: PaymentMethod[] = [
   {
     id: 'gcash',
-    name: 'GCash',
-    icon: 'https://www.gcash.com/wp-content/uploads/2022/04/GCash-Logo-SVG.svg'
+    name: '',
+    icon: '/images/Gcash.png'
   },
   {
     id: 'paymaya',
-    name: 'PayMaya',
-    icon: 'https://www.maya.ph/static/maya-logo.svg'
+    name: '',
+    icon: '/images/maya.jpg'
   },
   {
     id: 'unionbank',
-    name: 'UnionBank',
-    icon: 'https://www.unionbankph.com/assets/images/ubp-logo.svg'
+    name: '',
+    icon: '/images/unionbank.png'
   }
 ];
 
